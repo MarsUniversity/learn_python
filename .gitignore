@@ -1,0 +1,6 @@
+*.pyc
+.DS_Store
+._*
+template.*
+.ipynb_checkpoints
+old
