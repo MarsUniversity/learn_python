@@ -4,3 +4,4 @@
 template.*
 .ipynb_checkpoints
 old
+__pycache__
