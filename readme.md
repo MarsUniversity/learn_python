@@ -1,8 +1,5 @@
 # Learn Python
 
-I wrote this for my highschool kids who like to play games.
-
-
 ## Schedule
 
 Following the Automate The Boring Stuff with Python book and the companion videos, here is the schedule:
